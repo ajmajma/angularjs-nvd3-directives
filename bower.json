@@ -27,7 +27,7 @@
   "dependencies": {
     "angular": "~1.2.4",
     "d3": "~3.4.1",
-    "nvd3": "~v1.1.15-beta"
+    "nvd3": "git@github.com:liquidpele/nvd3.git#1.6.x"
   },
   "devDependencies": {
     "moment": "~2.5.0",
