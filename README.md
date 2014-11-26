@@ -60,7 +60,7 @@
 
 #### [Angularjs-nvd3-Directives.js](http://cmaurer.github.io/angularjs-nvd3-directives)
 
-    bower install angularjs-nvd3-directives --save
+    bower install git@github.com:greenek/angularjs-nvd3-directives --save
     
 ### 2. Create basic [Angular.js](http://angularjs.org/) application
 
