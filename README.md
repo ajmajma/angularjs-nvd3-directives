@@ -1,6 +1,6 @@
 <link href="http://nvd3.org/src/nv.d3.css" rel="stylesheet">
 
-##[Angular.js](http://angularjs.org/) Directives for [nvd3.js](http://www.nvd3.org), [d3.js](http://www.d3js.org) charts
+##[Angular.js](http://angularjs.org/) Directives for [nvd3.js](http://liquidpele.github.io/nvd3/), [d3.js](http://www.d3js.org) charts
 
 [![Build Status](https://travis-ci.org/cmaurer/angularjs-nvd3-directives.png?branch=master)](https://travis-ci.org/cmaurer/angularjs-nvd3-directives)
 [![Dependencies Status](https://david-dm.org/cmaurer/angularjs-nvd3-directives.png)](https://david-dm.org/cmaurer/angularjs-nvd3-directives#info=dependencies)
@@ -54,9 +54,9 @@
 
     bower install d3 --save
 
-#### [nvd3.js](http://www.nvd3.org)
+#### [nvd3.js](http://liquidpele.github.io/nvd3/)
 
-    bower install nvd3 --save
+    bower install git@github.com:liquidpele/nvd3#master --save
 
 #### [Angularjs-nvd3-Directives.js](http://cmaurer.github.io/angularjs-nvd3-directives)
 
